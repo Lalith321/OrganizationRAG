@@ -132,5 +132,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://backendholder.onrender.com/",
+    "https://lalith321.github.io/MyWebsite/",
 ]
 CORS_ORIGIN_ALLOW_ALL = True
