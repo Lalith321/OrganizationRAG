@@ -27,7 +27,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['backendholder.onrender.com', 'localhost', 'organizationrag.onrender.com', '35.77.188.84']
+ALLOWED_HOSTS = ['backendholder.onrender.com', 'localhost', 'organizationrag.onrender.com', 'allegroartisticleap.com']
 
 
 # Application definition
